@@ -1,9 +1,9 @@
-# Extensions
+# Extension
 
 
 
 
-**Extensions:**
+**Extension:**
 ```
 extension Double {
 
