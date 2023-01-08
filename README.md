@@ -4,7 +4,7 @@
 
 
 **Extensions:**
-
+```
 extension Double {
 
     //Stored values can't be used in extensions, and therefore use computed values
@@ -20,6 +20,4 @@ extension Double {
 
 let radius : Double = 2
 print("Area of circle is \(String(format: "%.2f", radius.AreaOfCircle()))")
-
-
-
+```
